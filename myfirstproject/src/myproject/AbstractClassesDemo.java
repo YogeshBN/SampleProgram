@@ -4,6 +4,7 @@ abstract class Admin57
 {
 	void disp() 
 	{ 
+		
 	}
 }
 
